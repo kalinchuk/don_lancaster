@@ -8,7 +8,7 @@ This keyboard was built in the YouTube video titled [Building Don Lancaster's AS
 
 The artwork in the article was used to create PCBs of the "low cost keyboard".
 
-[IMAGE]
+<img width="704" alt="Low Cost Keyboard Artwork" src="https://github.com/user-attachments/assets/ba0e399e-865e-4879-a29e-6433dd137040">
 
 I made two different versions of the PCB - one original version and the other modified for modern key switches. The original PCBs are available for at [https://www.kalinchuk.com/product-page/don-lancaster-s-low-cost-keyboard-pcb-original](https://www.kalinchuk.com/product-page/don-lancaster-s-low-cost-keyboard-pcb-original). The modern variant PCBs are available at [https://www.kalinchuk.com/product-page/don-lancaster-s-low-cost-keyboard-pcb-modern](https://www.kalinchuk.com/product-page/don-lancaster-s-low-cost-keyboard-pcb-modern). You can also use the [Original Gerber](original_gerber.zip) or [Modern Gerber](modern_gerber.zip) files to fabricate the PCBs yourself.
 
@@ -24,4 +24,4 @@ One additional (and optional) part is the Amphenol 143-018-01 connector. You can
 
 Below, you will find the final, assembled PCB. The only thing left to do is to customize the key caps.
 
-IMAGE
+<img width="704" alt="Low Cost Keyboard Artwork" src="https://github.com/user-attachments/assets/d926b169-8336-40e7-9e40-23ed25c599d3">
