@@ -8,7 +8,7 @@ This encoder was built in the YouTube video titled [Building Don Lancaster's ASC
 
 The artwork in the article was used to create PCBs of the ASCII encoder.
 
-[IMAGE]
+<img width="450" alt="ASCII Encoder Artwork" src="https://github.com/user-attachments/assets/942468d2-9d38-4df9-a971-efdca3c67746">
 
 PCBs for the ASCII encoder are available at [www.kalinhuk.com](https://www.kalinchuk.com/product-page/don-lancaster-s-ascii-encoder-pcb). You can also use the [Gerber](gerber.zip) file to fabricate the PCB yourself.
 
@@ -22,8 +22,10 @@ Two additional (and optional) parts are the Amphenol 143-018-01 connector (which
 
 Below, you will find the final, assembled PCB.
 
-IMAGE
+TODO
 
 The encoder was connected to the "low cost keyboard" to finalize the ASCII keyboard. I used 390 ohm resistors on the 000-111 lines of the keyboard-encoder connection.
 
-IMAGE
+<img width="700" alt="ASCII Encoder" src="https://github.com/user-attachments/assets/4ce7fed8-444e-4dd7-ad1f-ebafa63ff341">
+
+<img width="700" alt="ASCII Encoder Final" src="https://github.com/user-attachments/assets/8088314b-c85e-4f7e-b2e5-955f0d96aad9">
