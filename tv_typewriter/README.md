@@ -8,9 +8,12 @@ The TV Typewriter was introduced in the YouTube video titled [Building Don Lanca
 
 The artwork in the construction manual was used to create PCBs of the TV Typewriter which contains 4 boards - 1 mainframe PCB, 1 cursor PCB, 1 timing PCB and 1 memory PCB (with the ability to expand to 2).
 
-IMAGE
+<img width="704" alt="TV Typewriter Mainframe PCB Artwork" src="https://github.com/user-attachments/assets/b9a12074-099b-4dbf-b769-d500d17c3cf2">
+
 
 The PCB set is available for sale at [https://www.kalinchuk.com/product-page/don-lancaster-s-tv-typewriter-pcb-set](https://www.kalinchuk.com/product-page/don-lancaster-s-tv-typewriter-pcb-set). If you would like to fabricate the PCBs yourself, the Gerber files will be made available soon.
+
+<img width="704" alt="TV Typewriter PCBs" src="https://github.com/user-attachments/assets/17f919be-95dd-4b9a-a2ed-570dae4ce916">
 
 ## Parts
 
