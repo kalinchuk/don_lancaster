@@ -45,6 +45,11 @@ Refer to the construction manual for the parts required to build the TV Typewrit
 
 <img width="500" alt="Coil" src="https://github.com/user-attachments/assets/aed0b7fe-f4b7-419b-bfd4-ecc7c4cb32da">
 
+#### Gimmick Attenuator
+
+<img width="500" alt="Gimmick attenuator" src="https://github.com/user-attachments/assets/b59c3fc3-8666-46e1-af4a-9982d15c3268">
+
+
 ### Memory
 
 Coming soon
