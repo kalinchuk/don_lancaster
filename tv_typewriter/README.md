@@ -33,6 +33,18 @@ Refer to the construction manual for the parts required to build the TV Typewrit
 | S01-S06    | Molex 09-52-3103 | [Radwell](https://www.radwell.com/Buy/ASEA%20BROWN%20BOVERI/BALDOR%20RELIANCE/TB0057A00?parentitemid=3649397) |
 | T1         | Signal 24-1A     | eBay (Signal Transformer 24-1A) |
 
+#### PCB
+
+<img width="704" alt="Mainframe PCB" src="https://github.com/user-attachments/assets/9d54dddc-cf2b-4144-98c9-25f026608931">
+
+#### Power Transformer Connection
+
+<img width="500" alt="Power Transformer Connection" src="https://github.com/user-attachments/assets/2c6cc732-dc15-414b-bba9-86786a139f2d">
+
+#### Coil
+
+<img width="500" alt="Coil" src="https://github.com/user-attachments/assets/aed0b7fe-f4b7-419b-bfd4-ecc7c4cb32da">
+
 ### Memory
 
 Coming soon
