@@ -28,6 +28,7 @@ Refer to the construction manual for the parts required to build the TV Typewrit
 | F1         | Fuse holder         | [MPD BK-6004](https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BK-6004/2330523) |
 | J1-J2      | Binding post        | [Pomona Electronics 3760-4](https://www.digikey.com/en/products/detail/pomona-electronics/3760-4/736553?so=88660697) |
 | Q1         | 2N918               | [eBay](https://www.ebay.com/itm/116185007333) |
+| IC1 Heat sink | 17.90°C/W | [Boyd Laconia 6025DG](https://www.digikey.com/en/products/detail/boyd-laconia-llc/6025DG/4974546) |
 | S1-S4, S7-S8 | SWITCH ROCKER DPDT 5A 120V | [C&K 7201J1ZQE2](https://www.digikey.com/en/products/detail/c-k/7201J1ZQE2/66994) |
 | S5-S6      | SWITCH ROCKER DPDT Momentary | [C&K 7208J1ZQE2](https://www.onlinecomponents.com/en/productdetail/littelfuse-c-k/7208j1zqe2-11106482.html) |
 | S01-S06    | Molex 09-52-3103 | [Radwell](https://www.radwell.com/Buy/ASEA%20BROWN%20BOVERI/BALDOR%20RELIANCE/TB0057A00?parentitemid=3649397) |
