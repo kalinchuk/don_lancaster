@@ -53,6 +53,16 @@ Refer to the construction manual for the parts required to build the TV Typewrit
 
 ### Memory
 
+The hardest to find components on the Memory board are the Signetics 2524V shift registers. The rest of the components are fairly easy to find. eBay is a good source for most of the components.
+
+| Part       | Spec        | Source                   |
+| ---------- | ----------- | ------------------------ |
+| IC1-IC6              | 2524 MOS 512-bit recirculating shift register (Signetics)   | [kalinchuk.com (while supplies last)](https://www.kalinchuk.com/product-page/signetics-2524v-shift-register-for-tv-typewriter) or eBay if they show up by chance |
+| IC8                  | 2518 MOS 32-bit recirculating shift register (Signetics)    | eBay, i.e. [this listing](https://www.ebay.com/itm/254053777558) |
+| IC9                  | 2513 character generator          | [eBay](https://www.ebay.com/itm/335361527128) |
+
+#### PCB
+
 Coming soon
 
 ### Cursor
@@ -60,6 +70,18 @@ Coming soon
 Coming soon
 
 ### Timing
+
+Most of the components on the Timing board are easy to find. The hardest part to find is the 4.261 MHz crystal oscillator.
+
+| Part       | Spec        | Source                   |
+| ---------- | ----------- | ------------------------ |
+| IC1                  | Motorola MC4024          | [eBay](https://www.ebay.com/itm/335377355646) |
+| IC2-IC3, IC5         | 8288 divide by twelve    | [eBay](https://www.ebay.com/itm/335642427110) |
+| P1-P60     | Molex 26-60-2101 | [DigiKey](https://www.digikey.com/en/products/detail/molex/0026602101/3159571) |
+| S01-S06    | Molex 09-52-3103 | [Radwell](https://www.radwell.com/Buy/ASEA%20BROWN%20BOVERI/BALDOR%20RELIANCE/TB0057A00?parentitemid=3649397) |
+| XTAL 1     | 4,561.920 KHz    | I used [4.5 MHz](https://www.ebay.com/itm/125806912675) for testing but a more precise frequency is required. You can try connecting the crystal and a trimmer capacitor in parallel to increase the frequency slightly (such as the 3-30 pF used on the Mainframe board). I will update this once I find a more suitable oscillator. |
+
+#### PCB
 
 Coming soon
 
