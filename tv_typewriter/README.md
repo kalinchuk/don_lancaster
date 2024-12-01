@@ -5,6 +5,7 @@ Don Lancaster's TV Typewriter was featured in the [September 1973 issue of the R
 The TV Typewriter was introduced in the YouTube video titled [Building Don Lancaster's TV Typewriter](https://youtu.be/Z4RsOHaQ3xM) and built and tested in subsequent videos.
 
 [Part 1 (Intro)](https://youtu.be/Z4RsOHaQ3xM)
+
 [Part 2 (Mainframe)](https://www.youtube.com/watch?v=5wwCebJK5xs)
 
 ## PCB
