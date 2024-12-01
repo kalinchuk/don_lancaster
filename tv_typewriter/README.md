@@ -67,7 +67,7 @@ The hardest to find components on the Memory board are the Signetics 2524V shift
 
 #### PCB
 
-Coming soon
+<img width="704" alt="Memory PCB" src="https://github.com/user-attachments/assets/1ca245b3-6c37-4605-b74e-9dacf30279a2">
 
 ### Cursor
 
@@ -87,7 +87,15 @@ Most of the components on the Timing board are easy to find. The hardest part to
 
 #### PCB
 
-Coming soon
+<img width="704" alt="Timing PCB" src="https://github.com/user-attachments/assets/08995b5f-6f7b-4f1f-a2c5-ac3835a9ebe4">
+
+#### XTAL Tuning
+
+If using a crystal that is not an exact 4.561920 MHz, a trimmer capacitor can be applied to tune the frequency slightly. Keep in mind that a trimmer can only alter the frequency by a few kilohertz but it could be a difference between working and not working.
+
+In this example, I have a 3-30pF trimmer connected in parallel while testing:
+
+<img width="500" alt="Tuning Crystal" src="https://github.com/user-attachments/assets/c82647e3-a381-4a81-831c-c44361a8d76c">
 
 ## Final Product
 
