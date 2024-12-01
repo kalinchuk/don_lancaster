@@ -4,6 +4,9 @@ Don Lancaster's TV Typewriter was featured in the [September 1973 issue of the R
 
 The TV Typewriter was introduced in the YouTube video titled [Building Don Lancaster's TV Typewriter](https://youtu.be/Z4RsOHaQ3xM) and built and tested in subsequent videos.
 
+[Part 1 (Intro)](https://youtu.be/Z4RsOHaQ3xM)
+[Part 2 (Mainframe)](https://www.youtube.com/watch?v=5wwCebJK5xs)
+
 ## PCB
 
 The artwork in the construction manual was used to create PCBs of the TV Typewriter which contains 4 boards - 1 mainframe PCB, 1 cursor PCB, 1 timing PCB and 1 memory PCB (with the ability to expand to 2).
@@ -88,3 +91,13 @@ Coming soon
 ## Final Product
 
 Coming soon
+
+## Issues
+
+The first batch of PCBs had the following issues that needed correction:
+
+1) The 5v voltage regulator footprint on the Mainframe was slightly too small. Correction: Drill out with 1/16" drill bit.
+2) The RF tuner (trimmer capacitor) footprint on the Mainframe was too small. Correction: Use a drill to enlarge it slightly.
+3) The coil footprint on the Mainframe was slightly too small. Correction: Use a drill bit large enough for the coil to enlarge it.
+4) The power switch footprint on the Mainframe might be too small if using lower guage wire. Correction: Use 1/16" drill bit to enlarge it.
+5) IC7 pin 12 of the Memory board has a short with a passing trace. Correction: Remove the short using a small knife or other method.
