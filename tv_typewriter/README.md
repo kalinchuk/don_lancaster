@@ -23,7 +23,7 @@ The PCB set is available for sale at [https://www.kalinchuk.com/product-page/don
 
 ## Parts
 
-Refer to the construction manual for the parts required to build the TV Typewriter. Below, you will find the specific or hard-to-find parts for each PCB and the source I used for each part.
+Refer to the construction manual for the parts required to build the TV Typewriter. Most 7400 ICs can be substituted with a 5400 IC. Below, you will find the specific or hard-to-find parts for each PCB and the source I used for each part.
 
 ### Mainframe
 
