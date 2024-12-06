@@ -10,6 +10,8 @@ The TV Typewriter was introduced in the YouTube video titled [Building Don Lanca
 
 [Part 3 (Timing)](https://www.youtube.com/watch?v=ewfh5tOWrp8)
 
+[Part 4 (Memory)](https://www.youtube.com/watch?v=_3tp-KLXC_w)
+
 ## PCB
 
 The artwork in the construction manual was used to create PCBs of the TV Typewriter which contains 4 boards - 1 mainframe PCB, 1 cursor PCB, 1 timing PCB and 1 memory PCB (with the ability to expand to 2).
@@ -73,7 +75,11 @@ The hardest to find components on the Memory board are the Signetics 2524V shift
 
 ### Cursor
 
-Coming soon
+All of the components on the Cursor board are fairly easy to find. If you can't find a component on sites like DigiKey or Mouser, you can still find them on eBay.
+
+#### PCB
+
+<img width="704" alt="Cursor PCB" src="https://github.com/user-attachments/assets/07df1832-1d08-49b2-bbf1-108ad6f4ae31">
 
 ### Timing
 
