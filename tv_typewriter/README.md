@@ -12,6 +12,8 @@ The TV Typewriter was introduced in the YouTube video titled [Building Don Lanca
 
 [Part 4 (Memory)](https://www.youtube.com/watch?v=_3tp-KLXC_w)
 
+[Part 5 (Cursor)](https://www.youtube.com/watch?v=rcFiic5D9TA)
+
 ## PCB
 
 The artwork in the construction manual was used to create PCBs of the TV Typewriter which contains 4 boards - 1 mainframe PCB, 1 cursor PCB, 1 timing PCB and 1 memory PCB (with the ability to expand to 2).
