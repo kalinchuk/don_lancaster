@@ -8,7 +8,7 @@ The artwork in the article was used to create PCBs of the ASCII encoder.
 
 <img width="446" alt="Improved ASCII Encoder Artwork" src="https://github.com/user-attachments/assets/7a6419a7-59d2-4ac5-b379-c536877edf3e">
 
-PCBs for the Improved ASCII Encoder are available at [www.kalinhuk.com](https://www.kalinchuk.com/product-page/don-lancaster-s-improved-ascii-encoder-pcb). You can also use the [Gerber](gerber.zip) file to fabricate the PCB yourself.
+PCBs for the Improved ASCII Encoder are available at [www.kalinchuk.com](https://www.kalinchuk.com/product-page/don-lancaster-s-improved-ascii-encoder-pcb). You can also use the [Gerber](gerber.zip) file to fabricate the PCB yourself.
 
 <img width="446" alt="Improved ASCII Encoder Front" src="https://github.com/user-attachments/assets/36b2c9b3-3dab-4e96-b669-c24bcec05485">
 
