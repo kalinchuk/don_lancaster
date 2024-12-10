@@ -10,7 +10,7 @@ The artwork in the article was used to create PCBs of the ASCII encoder.
 
 <img width="450" alt="ASCII Encoder Artwork" src="https://github.com/user-attachments/assets/942468d2-9d38-4df9-a971-efdca3c67746">
 
-PCBs for the ASCII encoder are available at [www.kalinhuk.com](https://www.kalinchuk.com/product-page/don-lancaster-s-ascii-encoder-pcb). You can also use the [Gerber](gerber.zip) file to fabricate the PCB yourself.
+PCBs for the ASCII encoder are available at [www.kalinchuk.com](https://www.kalinchuk.com/product-page/don-lancaster-s-ascii-encoder-pcb). You can also use the [Gerber](gerber.zip) file to fabricate the PCB yourself.
 
 ## Parts
 
