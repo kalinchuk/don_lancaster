@@ -18,7 +18,7 @@ Refer to the article for the parts required to build the original keyboard. I de
 
 If you're building the modern variant, the keyboard only needs key switches, key caps and wire for jumpers. In my build, I used [key stabilizers](https://www.amazon.com/gp/product/B096JWNKVG) for the space bar. The key switches are standard MX switches and the key caps are standard caps. I used a [set of standard key caps](https://www.amazon.com/gp/product/B0BLMJQRSG) for my build.
 
-One additional (and optional) part is the Amphenol 143-018-01 connector. You can use this connector or you can solder wires directly to the PCB when connecting to an ASCII encoder.
+One additional (and optional) part is the Amphenol 143-022-01 connector. You can use this connector or you can solder wires directly to the PCB when connecting to an ASCII encoder.
 
 ## Final Product
 
