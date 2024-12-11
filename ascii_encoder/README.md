@@ -16,7 +16,7 @@ PCBs for the ASCII encoder are available at [www.kalinchuk.com](https://www.kali
 
 Refer to the article for the parts list. Most of the parts are easy to find. MC9818 may be the hardest part to find from this list but there are still plenty available on eBay.
 
-Two additional (and optional) parts are the Amphenol 143-018-01 connector (which is used to connect to the "low cost keyboard") and the Amphenol 143-012-01 connector (which is the ASCII out connector). You can use those connectors or you can solder wires directly to the PCBs.
+Two additional (and optional) parts are the Amphenol 143-022-01 connector (which is used to connect to the "low cost keyboard") and the Amphenol 143-012-01 connector (which is the ASCII out connector). You can use those connectors or you can solder wires directly to the PCBs.
 
 ## Final Product
 
