@@ -18,10 +18,16 @@ Refer to the article for the parts required to build the original keyboard. I de
 
 If you're building the modern variant, the keyboard only needs key switches, key caps and wire for jumpers. In my build, I used [key stabilizers](https://www.amazon.com/gp/product/B096JWNKVG) for the space bar. The key switches are standard MX switches and the key caps are standard caps. I used a [set of standard key caps](https://www.amazon.com/gp/product/B0BLMJQRSG) for my build.
 
-One additional (and optional) part is the Amphenol 143-018-01 connector. You can use this connector or you can solder wires directly to the PCB when connecting to an ASCII encoder.
+Another builder used [a different set of keycaps](https://www.amazon.com/dp/B0BK3HK7SR), again available from Amazon.
+
+One additional (and optional) part is the Amphenol 143-022-01 connector. You can use this connector or you can solder wires directly to the PCB when connecting to an ASCII encoder.
 
 ## Final Product
 
 Below, you will find the final, assembled PCB. The only thing left to do is to customize the key caps.
 
 <img width="704" alt="Low Cost Keyboard Artwork" src="https://github.com/user-attachments/assets/d926b169-8336-40e7-9e40-23ed25c599d3">
+
+If you used the second set of keycaps, you can print [the BMP file](keys.bmp), making sure that each surrounding square border is 0.5" on each side. The [P-touch key label file](keys.lbx) is also provided.
+
+![second keyboard](keyboard2.png)
