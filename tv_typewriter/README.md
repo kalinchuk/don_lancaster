@@ -125,6 +125,8 @@ The back of the enclosure contains a video output port and the power cable. I pl
 
 <img width="500" alt="Final Product" src="https://github.com/user-attachments/assets/34da374b-11d5-4613-ae75-f363b775da34" />
 
+Front:
+
 <img width="500" alt="Final Product Front" src="https://github.com/user-attachments/assets/fd3189b6-068c-4293-9ace-f126a96a0654" />
 
 ## Bugs I Encountered
