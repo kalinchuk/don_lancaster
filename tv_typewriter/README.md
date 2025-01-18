@@ -121,9 +121,11 @@ The +5v line connects to a nearby jumper wire which is +5v. The GND connects to 
 
 The TV Typewriter was installed into an aluminum enclosure by [Hammond Manufacturing part 1444-17105](https://www.digikey.com/en/products/detail/hammond-manufacturing/1444-17105/3869011) (17" x 10" x 5"). I used a Dremel tool to cut out the openings for the keyboard and switches. I then used a piece of Cedar wood for the sides. Notice that the sides are slightly slanted from top to bottom. That's how the original TV Typewriter was built as well. The text was applied with Letraset that I found on eBay.
 
-The back of the enclosure contains a video output port and the power cable. I plan to add an additional parallel input with a toggle to switch between the input port or the keyboard.
+The back of the enclosure contains a video output port and the power cable. I plan to add an additional parallel input port with a toggle to switch between the input port or the keyboard.
 
 <img width="500" alt="Final Product" src="https://github.com/user-attachments/assets/34da374b-11d5-4613-ae75-f363b775da34" />
+
+<img width="500" alt="Final Product Front" src="https://github.com/user-attachments/assets/fd3189b6-068c-4293-9ace-f126a96a0654" />
 
 ## Bugs I Encountered
 
