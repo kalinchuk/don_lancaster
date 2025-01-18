@@ -133,9 +133,9 @@ While building the TV Typewriter, I encountered some bugs that needed fixing.
 
    My monitor was faulty. Switching to a good TV (that can be adjusted) produced much crispier characters. I eventually fixed the issue with my monitor which turned out to be a bad contrast knob.
 
-3) Pressing T produced D (and other mismatched characters).
+3) Pressing "T" produced "D" (and other mismatched characters).
 
-   The trace between the bottom connector and the top connector of bus pin 4 was broken on the memory board which prevented that KBD signal from reaching the memory board. This was probably because of all the adding and removing of boards while debugging. I fixed this by soldering a wire from the bottom connector to the top connector of the memory board.
+   The trace between the bottom connector and the top connector of bus pin 4 was broken on the Memory board which prevented that KBD signal from reaching the Memory board. This was probably because of all the swapping of boards while debugging. I fixed this by soldering a wire from the bottom connector to the top connector of the Memory board.
 
 4) The middle section of the screen always produced "@"s in the same location.
 
@@ -143,7 +143,7 @@ While building the TV Typewriter, I encountered some bugs that needed fixing.
 
 5) Forward cursor was not operating properly - after character input, the cursor would sometimes stay in the same place, move forward or even move backward.
 
-   The only difference between the "move forward" circuit and the "move backward" circuit is the addition of C4 of the Cursor board when "move forward" is selected. This capacitor extends the timing a bit and having it off, even by a little, affects the operation of the cursor. After experimenting with that capacitor by trying different values, I found that my capacitor has drifted by over 1,100 pF and needed adjustment.
+   The only difference between the "move forward" circuit and the "move backward" circuit is the addition of C4 of the Cursor board when "move forward" is selected. This capacitor extends the timing a bit and having it off, even by a little, affects the operation of the cursor. After experimenting with that capacitor by trying different values, I found that my capacitor had drifted by over 1,100 pF and needed adjustment.
 
 6) The 12V zener diode on the Mainframe board got very hot.
 
