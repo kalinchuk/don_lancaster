@@ -121,6 +121,34 @@ The +5v line connects to a nearby jumper wire which is +5v. The GND connects to 
 
 Coming soon
 
+## Bugs I Encountered
+
+While building the TV Typewriter, I encountered some bugs that needed fixing.
+
+1) The keyboard "@" key produced an "8" on the screen (and ":" produced "B").
+
+   This turned out to be a bug on the original artwork of the "low cost keyboard" PCB. See [this](https://github.com/kalinchuk/don_lancaster/tree/main/low_cost_keyboard#bugs) for more information.
+
+2) Bad video output. The video output on the monitor made all the characters smear into each other.
+
+   My monitor was faulty. Switching to a good TV (that can be adjusted) produced much crispier characters. I eventually fixed the issue with my monitor which turned out to be a bad contrast knob.
+
+3) Pressing T produced D (and other mismatched characters).
+
+   The trace between the bottom connector and the top connector of bus pin 4 was broken on the memory board which prevented that KBD signal from reaching the memory board. This was probably because of all the adding and removing of boards while debugging. I fixed this by soldering a wire from the bottom connector to the top connector of the memory board.
+
+4) The middle section of the screen always produced "@"s in the same location.
+
+   I had two faulty 2524V shift registers that needed replacement.
+
+5) Forward cursor was not operating properly - after character input, the cursor would sometimes stay in the same place, move forward or even move backward.
+
+   The only difference between the "move forward" circuit and the "move backward" circuit is the addition of C4 of the Cursor board when "move forward" is selected. This capacitor extends the timing a bit and having it off, even by a little, affects the operation of the cursor. After experimenting with that capacitor by trying different values, I found that my capacitor has drifted by over 1,100 pF and needed adjustment.
+
+6) The 12V zener diode on the Mainframe board got very hot.
+
+   The 12V circuit may be pulling too much current (maybe the KBD?) and heating up the zener diode. I replaced the 1W diode with a 3W one (that's all I had but 2W would probably be fine too).
+
 ## Issues
 
 The first batch of PCBs had the following issues that needed correction:
