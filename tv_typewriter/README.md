@@ -93,19 +93,29 @@ Most of the components on the Timing board are easy to find. The hardest part to
 | IC2-IC3, IC5         | 8288 divide by twelve    | [eBay](https://www.ebay.com/itm/335642427110) |
 | P1-P60     | Molex 26-60-2101 | [DigiKey](https://www.digikey.com/en/products/detail/molex/0026602101/3159571) |
 | S01-S06    | Molex 09-52-3103 | [Radwell](https://www.radwell.com/Buy/ASEA%20BROWN%20BOVERI/BALDOR%20RELIANCE/TB0057A00?parentitemid=3649397) |
-| XTAL 1     | 4,561.920 KHz    | I used [4.5 MHz](https://www.ebay.com/itm/125806912675) for testing but a more precise frequency is required. You can try connecting the crystal and a trimmer capacitor in parallel to increase the frequency slightly (such as the 3-30 pF used on the Mainframe board). I will update this once I find a more suitable oscillator. |
+| XTAL 1     | 4,561.920 KHz    | I used [4.5 MHz](https://www.ebay.com/itm/125806912675) for testing but a more precise frequency is required. You can try connecting the crystal and a trimmer capacitor in parallel to increase the frequency slightly (such as the 3-30 pF used on the Mainframe board). I will update this once I find a more suitable oscillator. For additional alternatives, see the "XTAL Tuning & Alternatives" section below. |
 
 #### PCB
 
 <img width="704" alt="Timing PCB" src="https://github.com/user-attachments/assets/08995b5f-6f7b-4f1f-a2c5-ac3835a9ebe4">
 
-#### XTAL Tuning
+#### XTAL Tuning & Alternatives
 
 If using a crystal that is not an exact 4.561920 MHz, a trimmer capacitor can be applied to tune the frequency slightly. Keep in mind that a trimmer can only alter the frequency by a few kilohertz but it could be a difference between working and not working.
 
 In this example, I have a 3-30pF trimmer connected in parallel while testing:
 
 <img width="500" alt="Tuning Crystal" src="https://github.com/user-attachments/assets/c82647e3-a381-4a81-831c-c44361a8d76c">
+
+An alternative approach is to use a programmable oscillator that is installed on a daughter board and connected to the Timing board that way. This will generate a more precise frequency but requires a breakout board. I used [EPSON SG-8002CA-PTB](https://www.digikey.com/en/products/detail/epson/SG-8002CA-PTB/275195) programmable oscillator from DigiKey. When ordering from DigiKey, specify in the notes the frequency - 4.561920 MHz. Build a small breakout board using the following circuit:
+
+<img width="500" alt="XTAL Breakout Circuit" src="https://github.com/user-attachments/assets/81e4be9c-bf41-46ff-ab87-d7b351447743" />
+
+The breakout board will look something similar to this:
+
+<img width="500" alt="XTAL Breakout Board" src="https://github.com/user-attachments/assets/d6b1409d-a32e-4923-bfb2-c42cbb934aeb" />
+
+The +5v line connects to a nearby jumper wire which is +5v. The GND connects to the XTAL's 3rd pin (used as shield from stray capacitances and connects to GND). The output pin connects to pin 3 of IC1 of the Timing board.
 
 ## Final Product
 
