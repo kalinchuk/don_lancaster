@@ -31,3 +31,9 @@ Below, you will find the final, assembled PCB. The only thing left to do is to c
 If you used the second set of keycaps, you can print [the BMP file](keys.bmp), making sure that each surrounding square border is 0.5" on each side. The [P-touch key label file](keys.lbx) is also provided.
 
 ![second keyboard](keyboard2.png)
+
+## Bugs
+
+The original artwork contains a bug in the jumper wires section which makes the "@" and ":" keys behave incorrectly. This can be fixed by swapping the jumper wires 25 & 26 (from the right). This issue has been fixed in the updated Gerbers.
+
+<img width="400" alt="Jumper wires bug" src="https://github.com/user-attachments/assets/1dc1808b-464e-4924-ac58-e38e4389967f"/>
